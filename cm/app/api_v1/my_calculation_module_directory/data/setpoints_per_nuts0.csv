@@ -1,0 +1,54 @@
+﻿NUTS_ID;Custom_indicator_name_ list;Custom_indicator_value_ list
+AT;Summer setpoint for conditioned buildings, new buildings;
+AT;Limitations for space cooling for new residential buildings;No space cooling is considered
+AT;Limitations for space cooling for new residential buildings;No space cooling is considered
+AT;Maximum indoor temperature for renovated dwellings;26°C during the day and 28°C at night.
+BE;Overheating limit;Brussels-Capital Region (> 25°C for 5%/yr)
+BE;Overheating limit;Bruxelles Environnement (> 25°C for 3%/yr)
+BE;Maximum difference between internal and external temperature in summer ;7°C 
+BG;tbd;tbd
+HR;tbd;tbd
+CY;tbd;tbd
+CZ;tbd;tbd
+DK;Overheating limit;Not more than 100 hours above 26°C and not more than 25 hours above 27°C
+EE;tbd;tbd
+FI;tbd;tbd
+FR;Summer setpoint for conditioned buildings, new buildings;26 °C
+FR;Overheating limit, thermal comfort;26-28 °C
+FR;Limit for activating cooling systems, existing buildings;26 °C
+DE;Recommended indoor temperatures;Depending on the region  25 °C- 27 °C
+DE;Preferred temperature data in residential buildings;See Charts tab
+EL;Summer temperature setpoints for new buildings;"Indicatively 26°C for 
+residential and 20-26°C for 
+non-residential (depending 
+on building usage)"
+HU;Summer setpoint for conditioned buildings, new buildings;MSZ EN 16798-1
+HU;Limitations for space cooling for new residential buildings;No space cooling is considered as the baseline
+HU;Preferred temperature data in residential buildings;See Charts tab
+IE;tbd;tbd
+IT;Summer setpoint for conditioned buildings;26 °C - 2 °C
+LV;tbd;tbd
+LT;tbd;tbd
+LU;tbd;tbd
+MT;tbd;tbd
+NL;tbd;tbd
+PL;Limitations for space cooling for new buildings;The risk of overheating in the summer should be reduced
+;Thermal comfort range, low metabolic rate;23 - 26 °C
+PT;tbd;tbd
+RO;tbd;tbd
+SK;tbd;tbd
+SI;tbd;tbd
+ES;Summer setpoint for conditioned buildings, new residential buildings;25-27 °C (time dependent)
+ES;Limitations for space cooling for new residential buildings;Cooling season: June-September
+ES;Summer setpoint for conditioned buildings, non-residential new buildings;23 - 25 °C
+ES;Temporary relaxation of setpoints (July 2023);27 °C
+ES;Preferred temperature data in residential buildings;See Charts tab
+SE;Suggested indoor temperature limit;26 °C
+UK;Overheating limit, living areas, operative temperature;> 28°C for 1%/yr
+UK;Overheating limit, bedrooms, operative temperature;> 26°C for 1%/yr
+UK;Max operative temperature in living areas;25 °C
+UK;Max operative temperature in bedrooms;24 °C
+ALL;Thermal comfort range in EN 16798, conditioned offices IEQ category I. ;23,5 - 25,5 °C
+ALL;Thermal comfort range in EN 16798, conditioned offices IEQ category II. ;23 - 26 °C
+ALL;Thermal comfort range in EN 16798, conditioned offices IEQ category III. ;22 - 27 °C
+ALL;Thermal comfort range in EN 16798, conditioned offices IEQ category IV. ;21 - 28 °C

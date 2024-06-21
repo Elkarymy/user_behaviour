@@ -1,0 +1,25 @@
+NUTS_ID,Temperature_category,Value
+FR,Percentage of households with indoor temperature 17 °C or below [%],9
+FR,Percentage of households with indoor temperature 18-19 °C [%],14
+FR,Percentage of households with indoor temperature 20-21°C [%],21
+FR,Percentage of households with indoor temperature 22-23 °C [%],23
+FR,Percentage of households with indoor temperature 24 °C [%],23
+FR,Not known [%],10
+DE,Percentage of households with indoor temperature 17 °C or below [%],2
+DE,Percentage of households with indoor temperature 18-19 °C [%],25
+DE,Percentage of households with indoor temperature 20-21°C [%],52
+DE,Percentage of households with indoor temperature 22-23 °C [%],13
+DE,Percentage of households with indoor temperature 24 °C [%],5
+DE,Not known [%],3
+HU,Percentage of households with indoor temperature 17 °C or below [%],9
+HU,Percentage of households with indoor temperature 18-19 °C [%],9
+HU,Percentage of households with indoor temperature 20-21°C [%],15
+HU,Percentage of households with indoor temperature 22-23 °C [%],19
+HU,Percentage of households with indoor temperature 24 °C [%],41
+HU,Not known [%],7
+ES,Percentage of households with indoor temperature 17 °C or below [%],6
+ES,Percentage of households with indoor temperature 18-19 °C [%],11
+ES,Percentage of households with indoor temperature 20-21°C [%],21
+ES,Percentage of households with indoor temperature 22-23 °C [%],18
+ES,Percentage of households with indoor temperature 24 °C [%],28
+ES,Not known [%],16
